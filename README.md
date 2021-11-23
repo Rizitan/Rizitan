@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rizitan
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning lớp 8
+- 🌱 I’m currently learning class 8
 - 💞️ I’m looking to collaborate on ...
 - 📫 Liên hệ với tôi bằng email
 
